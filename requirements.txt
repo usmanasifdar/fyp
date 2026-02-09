@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=9.0.0
+PyYAML>=6.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+tqdm>=4.65.0
+
+# Object Detection
+ultralytics>=8.0.0
+
+# Vision-Language Model (Optional - requires significant resources)
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Utilities
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
